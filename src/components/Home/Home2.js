@@ -13,37 +13,35 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
+              I'm a Software Engineering student who enjoys transforming ideas into real and practical digital solutions.
+              I focus on building projects that combine functionality, performance, and user experience.
               <br />
               <br />
-              I’m proficient in
+              Over time, I've been working with technologies like
               <i>
                 <b className="purple">
                   {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
+                  JavaScript, TypeScript, React, Node.js, Java, and Python, developing both front-end and back-end applications.{" "}
                 </b>
               </i>
-              — and I enjoy working across both backend and frontend stacks.
               <br />
               <br />
-              My key areas of interest include developing
+              My main interests include web development, APIs, and creating systems that solve 
               <i>
                 <b className="purple">
                   {" "}
-                  Web Applications, Blockchain Solutions,{" "}
+                  real-world problems through technology.{" "}
                 </b>
               </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
               <br />
               <br />
-              Whenever possible, I love building projects with
-              <b className="purple"> Node.js </b> and modern frameworks like{" "}
+              Beyond coding, I’m also involved in building business ideas and personal projects,
+              always focused on improving my skills and building impactful solutions
+              I enjoy working with modern technologies like 
               <i>
-                <b className="purple">React.js</b> and{" "}
-                <b className="purple">Next.js</b>.
+                <b className="purple"> React.js</b> and{" "}
+                <b className="purple">Node.js</b>, 
+              and I'm constantly learning and exploring new tools to grow as a developer.
               </i>
             </p>
           </Col>
